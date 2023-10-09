@@ -1,5 +1,5 @@
 managers list
-loveTtte
+lovette
 delia
 delphine
 lisa
