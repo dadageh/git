@@ -3,3 +3,4 @@ love
 delia
 delphine
 lisa
+class8
